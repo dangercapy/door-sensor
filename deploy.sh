@@ -1,1 +1,3 @@
- sshpass -p "sshpassword" scp ./main.py username@ip:~/main.py
+ echo $deployusername
+
+ sshpass -p $deploypassword scp ./main.py $deployusername@$deployip:~/main.py
