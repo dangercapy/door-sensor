@@ -9,8 +9,8 @@ deurpin = 23
 disablepin = 21
 webpath = "/var/www/html"
 webindex = "index.html"
-telegram_token = "***REMOVED***"
-telegram_chat_id = "***REMOVED***"
+telegram_token = "token"
+telegram_chat_id = "id"
 enable_notifications = False
 
 
