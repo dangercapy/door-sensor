@@ -1,1 +1,1 @@
- sshpass -p "sshpassword" scp ./main.py ***REMOVED***@***REMOVED***:~/main.py
+ sshpass -p "sshpassword" scp ./main.py username@ip:~/main.py
