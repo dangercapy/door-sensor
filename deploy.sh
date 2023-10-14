@@ -1,1 +1,1 @@
- sshpass -p "***REMOVED***" scp ./* ***REMOVED***@***REMOVED***:~/*
+ sshpass -p "***REMOVED***" scp ./main.py ***REMOVED***@***REMOVED***:~/main.py
