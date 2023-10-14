@@ -1,0 +1,1 @@
+ sshpass -p "***REMOVED***" scp ./* ***REMOVED***@***REMOVED***:~/*
